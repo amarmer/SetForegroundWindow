@@ -18,7 +18,7 @@ void SetForeground(HWND hWnd)
 }
 ```
 
-To test: run program bellow and within 5sec start `Task Manager`. The program will be foregorund.
+To test: run program bellow and within 5sec start `Task Manager`. The program will be in foregorund.
 
 ```C++
 #include "stdafx.h"
