@@ -1,6 +1,6 @@
 ### SetForegroundWindow
 
-There are several implementations of SetForegroundWindow which brings a window to foreground, but they are not very reliable and 
+There are several implementations which bring a window to foreground, but they are not very reliable and 
 they don't work in case if application which in foreground has higher integrity.
 
 Here is described implementattion which always work no matter what integrity of an application which is in foreground.
